@@ -1,3 +1,23 @@
-Pérdida de dinero (Lucro cesante y costes hundidos): La toma de notas manual y la gestión física de comandas provocan errores humanos (platos equivocados, retrasos en la entrega) y bloquean la rotación de mesas en hora punta. Al no poder atender ni acomodar a más comensales debido a las aglomeraciones en la entrada, el local rechaza demanda activa de forma invisible y desperdicia materia prima en menús impresos estáticos que se vuelven obsoletos o se desechan.
-Pérdida de tiempo (Latencia operativa): Existe un cuello de botella crítico en la comunicación entre sala y cocina. El formato físico de las notas impide priorizar pedidos de forma dinámica, rompiendo el flujo de preparación. Además, la falta de un sistema de turnos digital o reservas genera tiempos de espera inciertos que ralentizan la asimilación de clientes en los momentos de mayor afluencia.
-Pérdida de energía (Fatiga laboral y fricción de procesos): La saturación operativa durante la temporada alta somete al personal a un esfuerzo físico y mental desproporcionado debido a la falta de automatización. Esta sobrecarga multiplica el estrés, incrementa la rotación del personal y desgasta la experiencia del cliente, comprometiendo la reputación del negocio de cara al futuro.
+Diagnóstico Técnico: Ineficiencias Operativas en el Kebab
+
+El modelo operativo puramente analógico de este establecimiento genera una reacción en cadena de ineficiencias que erosionan directamente sus recursos a tres niveles:
+
+1. Pérdida de dinero (Lucro cesante y costes hundidos)
+
+Rotación de mesas limitada: La toma de notas manual y la gestión física de comandas provocan errores humanos y bloquean la rotación de mesas en hora punta.
+
+Demanda rechazada: Al no poder acomodar a más comensales por las aglomeraciones, el local rechaza demanda activa de forma invisible.
+
+Costes en material estático: Se desperdicia presupuesto en menús impresos a todo color por docenas que se vuelven obsoletos rápidamente.
+
+2. Pérdida de tiempo (Latencia operativa)
+
+Cuello de botella en la comunicación: El formato físico de las notas impide priorizar pedidos de forma dinámica entre la sala y la cocina.
+
+Tiempos de espera inciertos: La falta de un sistema de turnos digital o gestión de reservas ralentiza la asimilación de clientes en momentos de máxima afluencia.
+
+3. Pérdida de energía (Fatiga laboral y fricción de procesos)
+
+Sobrecarga del personal: La saturación operativa somete a los trabajadores a un esfuerzo físico y mental desproporcionado.
+
+Degradación de la experiencia: Esta tensión multiplica el estrés, incrementa la rotación de personal y desgasta la reputación a largo plazo del negocio.
