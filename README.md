@@ -7,7 +7,7 @@ Digitalizacion del Kebab
 - Victor Puig : *Developer*
 - Zeit Warnier : *Developer*
 
-
-
+**Objetivos**
+El objetivo es digitalizar un restaurante de kebab.
 
 
