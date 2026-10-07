@@ -8,6 +8,6 @@ Digitalizacion del Kebab
 - Zeit Warnier : *Developer*
 
 **Objetivos**
-El objetivo es digitalizar un restaurante de kebab.
+- El objetivo es digitalizar un restaurante de kebab.
 
 
