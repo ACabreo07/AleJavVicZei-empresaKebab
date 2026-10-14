@@ -82,10 +82,10 @@ responsabilidades entre los integrantes del equipo.
 
 ### Sprint 1 — Análisis de la situación actual
 
-- Mapeo de la arquitectura IT/OT del establecimiento.
-- Identificación de las carencias tecnológicas.
-- Análisis de los principales problemas operativos.
-- Detección de oportunidades de mejora.
+- Mapeo de la arquitectura IT/OT del establecimiento.  (ZEIT)
+- Elaborar README.    (VICTOR)
+- Revisar Sprint Planning.  (ALEJANDRO)
+- Detección de punto de dolor.  (JAVIER)
 
 ## 8. Documentación del proyecto
 
