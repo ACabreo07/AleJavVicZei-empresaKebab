@@ -78,26 +78,20 @@ El proyecto se desarrollará siguiendo la metodología Scrum,
 organizando el trabajo en sprints y distribuyendo las
 responsabilidades entre los integrantes del equipo.
 
-## 7. Sprints
 
-### Sprint 1 — Análisis de la situación actual
-
-- Mapeo de la arquitectura IT/OT del establecimiento.  (ZEIT)
-- Elaborar README.    (VICTOR)
-- Revisar Sprint Planning.  (ALEJANDRO)
-- Detección de punto de dolor.  (JAVIER)
-
-## 8. Documentación del proyecto
+## 7. Documentación del proyecto
 
 - [Arquitectura IT/OT](ArquitecturasITOT.md)
 - [Análisis de puntos de dolor](Pain_Point.md)
 - [README](README.md)
+- [DIARIO](Diario.md)
+- [THD](DOCS/THD)
 
-## 9. Tecnologías utilizadas
+## 8. Tecnologías utilizadas
 
 Esta sección se actualizará conforme se definan las tecnologías
 que se utilizarán durante el desarrollo del proyecto.
 
-## 10. Estado del proyecto
+## 9. Estado del proyecto
 
 En desarrollo.

@@ -2,6 +2,12 @@
 
 ## Sprint 1: Diagnóstico inicial y mapa IT/OT de nuestra pyme
 
+### — Análisis de la situación actual
+
+- Mapeo de la arquitectura IT/OT del establecimiento.  (ZEIT)
+- Elaborar README.    (VICTOR)
+- Revisar Sprint Planning.  (ALEJANDRO)
+- Detección de punto de dolor.  (JAVIER)
 ### Semana 4
 **miércoles 7 de octubre de 2026**
 
