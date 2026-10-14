@@ -1,11 +1,10 @@
 # Ficha técnica THD · BLOCKCHAIN
 
-**Autor/a:** Satoshi Nakamoto
-**Equipo / pyme:**
-**Fecha:** 2008
+- **Autor/a:** Satoshi Nakamoto
+- **Equipo / pyme:**
+- **Fecha:** 2008
 
 ## 1. Qué es y qué problema resuelve
-(2 líneas como máximo)
 Es una estructura de datos cuya información se agrupa en conjuntos (bloques) a los que se les añade meta información relativa a otro bloque de la cadena anterior.
 Ha permitido la implementación de un registro contable distribuido que permite soportar y garantizar la seguridad de dinero digital.
 
