@@ -90,7 +90,8 @@ responsabilidades entre los integrantes del equipo.
 ## 8. Documentación del proyecto
 
 - [Arquitectura IT/OT](ArquitecturasITOT.md)
-- [Análisis de los problemas detectados](Pain_Point.md)
+- [Análisis de puntos de dolor](Pain_Point.md)
+- [README](README.md)
 
 ## 9. Tecnologías utilizadas
 
