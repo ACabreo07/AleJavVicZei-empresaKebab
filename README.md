@@ -84,7 +84,7 @@ responsabilidades entre los integrantes del equipo.
 - [Arquitectura IT/OT](ArquitecturasITOT.md)
 - [Análisis de puntos de dolor](Pain_Point.md)
 - [README](README.md)
-- [DIARIO](diario.md)
+- [DIARIO](Diario.md)
 
 ## 9. Tecnologías utilizadas
 
