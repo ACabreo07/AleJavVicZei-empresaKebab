@@ -1,54 +1,102 @@
-# AleJavVicZei - Digitalización de una empresa de kebab
+# AleJavVicZei — Digitalización de una empresa de kebab
 
-## Descripción del proyecto
+## 1. Descripción del proyecto
 
-Este proyecto tiene como objetivo digitalizar un restaurante de kebab mediante
-el desarrollo de soluciones tecnológicas que permitan mejorar su funcionamiento,
-optimizar sus procesos y ofrecer una mejor experiencia a los clientes.
+Este proyecto tiene como objetivo digitalizar un restaurante de kebab
+mediante la incorporación de soluciones tecnológicas que permitan
+optimizar sus procesos operativos, mejorar la gestión del negocio
+y ofrecer una mejor experiencia a los clientes.
 
-## Miembros del equipo y roles
+Actualmente, el establecimiento trabaja principalmente mediante
+procesos manuales y analógicos, lo que genera dificultades en la
+gestión de pedidos, la comunicación entre sala y cocina y el control
+de las operaciones del negocio.
+
+A través de este proyecto, se analizarán las necesidades del
+establecimiento y se propondrán soluciones tecnológicas adaptadas
+a su situación actual.
+
+## 2. Miembros del equipo y roles
 
 - **Alejandro Cabrero** — Scrum Master.
 - **Javier Giménez** — Product Owner.
 - **Víctor Puig** — Developer.
 - **Zeit Warnier** — Developer.
 
-## Objetivos
+## 3. Situación actual del negocio
 
-- Digitalizar los procesos del restaurante.
-- Mejorar la experiencia del cliente.
-- Optimizar la gestión de los pedidos.
-- Facilitar la organización y el funcionamiento del negocio.
-- Aplicar soluciones tecnológicas a las necesidades reales de una empresa.
+El restaurante dispone de una infraestructura tecnológica limitada.
 
-## Funcionalidades previstas
+### Arquitectura IT
 
-En esta sección se describirán las funcionalidades que se desarrollarán
-durante el proyecto.
+- Utilización de un datáfono para los pagos.
+- Caja registradora analógica.
+- Gestión manual de pedidos mediante notas manuscritas.
+- Ausencia de un sistema informatizado para la gestión del negocio
+  y la contabilidad.
 
-- Gestión de pedidos.
-- Consulta de productos y precios.
-- [Añadir otras funcionalidades acordadas por el equipo].
+### Arquitectura OT
 
-## Metodología de trabajo
+- Termómetros o sensores de temperatura en refrigeradores y frigoríficos.
+- Controles de temperatura integrados en freidoras, plancha y horno.
+- Ausencia de un registro informatizado de las lecturas de temperatura.
 
-El equipo utilizará la metodología Scrum para organizar el desarrollo,
-distribuir las responsabilidades y realizar un seguimiento del progreso.
+## 4. Problemas detectados
 
-## Tecnologías utilizadas
+El análisis inicial ha permitido identificar tres áreas principales
+de mejora:
 
-En esta sección se indicarán los lenguajes de programación, frameworks,
-herramientas y tecnologías utilizados durante el desarrollo.
+### Gestión económica
+- Posibles pérdidas económicas derivadas de errores en los pedidos.
+- Dificultades para atender la demanda en momentos de máxima afluencia.
+- Costes asociados a la impresión y actualización de menús físicos.
 
-- [Tecnología 1]
-- [Tecnología 2]
-- Git y GitHub para el control de versiones.
+### Eficiencia operativa
+- Comunicación poco ágil entre sala y cocina.
+- Dificultades para organizar y priorizar los pedidos.
+- Tiempos de espera difíciles de controlar en horas punta.
 
-## Documentación
+### Organización del trabajo
+- Sobrecarga del personal en momentos de alta demanda.
+- Mayor probabilidad de errores humanos.
+- Posible deterioro de la experiencia del cliente.
 
-- [Arquitectura del sistema](ArquitecturasITOT.md)
-- [Pain Point](Pain_Point.md)
+## 5. Objetivos del proyecto
 
-## Estado del proyecto
+- Digitalizar los procesos de gestión del restaurante.
+- Mejorar la organización y el seguimiento de los pedidos.
+- Agilizar la comunicación entre sala y cocina.
+- Reducir los errores derivados de los procesos manuales.
+- Mejorar la eficiencia operativa en horas punta.
+- Facilitar la actualización de los productos y precios.
+- Analizar posibles mejoras en el registro y seguimiento
+  de las temperaturas de los equipos.
 
-Proyecto en desarrollo.
+## 6. Metodología de trabajo
+
+El proyecto se desarrollará siguiendo la metodología Scrum,
+organizando el trabajo en sprints y distribuyendo las
+responsabilidades entre los integrantes del equipo.
+
+## 7. Sprints
+
+### Sprint 1 — Análisis de la situación actual
+
+- Mapeo de la arquitectura IT/OT del establecimiento.
+- Identificación de las carencias tecnológicas.
+- Análisis de los principales problemas operativos.
+- Detección de oportunidades de mejora.
+
+## 8. Documentación del proyecto
+
+- [Arquitectura IT/OT](ArquitecturasITOT.md)
+- [Análisis de los problemas detectados](Pain_Point.md)
+
+## 9. Tecnologías utilizadas
+
+Esta sección se actualizará conforme se definan las tecnologías
+que se utilizarán durante el desarrollo del proyecto.
+
+## 10. Estado del proyecto
+
+En desarrollo.
