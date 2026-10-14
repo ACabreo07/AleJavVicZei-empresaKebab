@@ -16,5 +16,6 @@
 * Revisión de tablero y tareas pendientes.
 * Tips de mejora (Verónica).
 * Teoría (Verónica).
-* *Ficha Experto* (Verónica).
-* 
+* *Ficha Experto*.
+* Compartir las THD entre los miembros.//pasar a limpio la plantilla con las tecnologias de los 4 miembros
+* Ficha de aplicación a nuestra pyme.//rellenar
