@@ -79,18 +79,19 @@ organizando el trabajo en sprints y distribuyendo las
 responsabilidades entre los integrantes del equipo.
 
 
-## 8. Documentación del proyecto
+## 7. Documentación del proyecto
 
 - [Arquitectura IT/OT](ArquitecturasITOT.md)
 - [Análisis de puntos de dolor](Pain_Point.md)
 - [README](README.md)
 - [DIARIO](Diario.md)
+- [THD](DOCS/THD)
 
-## 9. Tecnologías utilizadas
+## 8. Tecnologías utilizadas
 
 Esta sección se actualizará conforme se definan las tecnologías
 que se utilizarán durante el desarrollo del proyecto.
 
-## 10. Estado del proyecto
+## 9. Estado del proyecto
 
 En desarrollo.
