@@ -1,6 +1,6 @@
 Diagnóstico Técnico: Ineficiencias Operativas en el Kebab
 
-El modelo operativo puramente analógico de este establecimiento genera una reacción en cadena de ineficiencias que erosionan directamente sus recursos a tres niveles:
+El modelo operativo analógico de este establecimiento genera ineficiencias que erosionan directamente sus recursos a tres niveles:
 
 ## 1. Pérdida de dinero (Lucro cesante y costes hundidos)
 
